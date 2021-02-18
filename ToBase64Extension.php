@@ -5,7 +5,7 @@ namespace App\Twig;
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;
 
-class Base64 extends AbstractExtension
+class ToBase64Extension extends AbstractExtension
 {
 
     public function getFunctions()
