@@ -1,1 +1,1 @@
-# twig-boilerplate
+# Symfony boilerplate
